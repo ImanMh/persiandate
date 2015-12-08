@@ -1,7 +1,7 @@
 {
     "name": "persian-date",
-    "version": "0.1.8",
-    "main": "dist/0.1.8/persian-date-0.1.8.js",
+    "version": "0.1.9",
+    "main": "dist/0.1.9/persian-date-0.1.9.js",
     "ignore": [
         ".jshintrc",
         "**/*.txt",
