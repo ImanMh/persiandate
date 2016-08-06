@@ -1,11 +1,10 @@
-PersianDate
-===========
+# Persian Date Core
 
-http://babakhani.github.io/PersianWebToolkit/persiandate
+Javascript date library for parsing, validating, manipulating, and formatting persian dates System.
 
 
-javascript date library for parsing, validating, manipulating, and formatting persian dates System.
+# Contributors 
 
-**This project is being enhanced by [Fermium team](http://fermium.co):**
-
-1. Typescript defenitions and docs
+- This library is original based on [babakhani/PersianDate](https://github.com/babakhani/PersianDate)
+- Many thanks for enhancements of [Fermium team](http://fermium.co) for Typescript definitions and docs
+- Thanks for [contributors](https://github.com/persiandate/persiandate/graphs/contributors) for lots of bug-fixes.

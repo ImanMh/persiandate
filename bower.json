@@ -1,7 +1,7 @@
 {
-    "name": "persian-date-ehdi",
-    "version": "0.1.9",
-    "main": "dist/0.1.9/persian-date-0.1.9.js",
+    "name": "persiandate",
+    "version": "0.2.0",
+    "main": "dist/persian-date.js",
     "ignore": [
         ".jshintrc",
         "**/*.txt",

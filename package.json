@@ -1,6 +1,6 @@
 {
-    "name": "persian-date",
-    "version": "0.1.9",
+    "name": "persiandate",
+    "version": "0.2.0",
     "devDependencies": {
         "grunt": "0.4.4",
         "grunt-cli": "0.1.13",

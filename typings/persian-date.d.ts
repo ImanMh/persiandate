@@ -18,7 +18,7 @@ declare interface pDate {
     year: Number
 }
 
-declare interface PersianDate {
+declare interface PersianDate extends Date {
 
     gDate: Date
     pDate: pDate
