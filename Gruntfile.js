@@ -24,20 +24,20 @@ module.exports = function (grunt) {
             },
             dist: {
                 src: sources,
-                dest: 'dist/<%= pkg.version %>/<%= pkg.name %>-<%= pkg.version %>.js'
+                dest: 'dist/<%= pkg.name %>.js'
             }
         },
         uglify: {
             build: {
-                src: 'dist/<%= pkg.version %>/<%= pkg.name %>-<%= pkg.version %>.js',
-                dest: 'dist/<%= pkg.version %>/<%= pkg.name %>-<%= pkg.version %>.min.js'
+                src: 'dist/<%= pkg.name %>.js',
+                dest: 'dist/<%= pkg.name %>.min.js'
             }
         },
         jsdoc: {
             dist: {
                 src: sources,
                 options: {
-                    destination: 'doc/<%= pkg.version %>'
+                    destination: 'doc/'
                 }
             }
         }
