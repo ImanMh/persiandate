@@ -1,4 +1,4 @@
-/* persiandate - v0.2.0 */ ( function () {
+/* persiandate - v0.2.1 */ ( function () {
 /**
  * Persian Date
  * Written under the GPL version 2.0
